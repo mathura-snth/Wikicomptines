@@ -1,0 +1,19 @@
+Fichiers objets compilés
+
+*.o
+
+Exécutables générés par le Makefile
+
+wcp_clt
+wcp_srv
+main
+
+Fichiers temporaires ou de test générés dynamiquement
+
+__test*
+__testi
+
+Fichiers systèmes macOS/Linux (optionnel mais recommandé)
+
+.DS_Store
+.vscode/
